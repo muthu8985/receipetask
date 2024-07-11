@@ -1,0 +1,56 @@
+table tr,
+td {
+    border: 1px solid black
+}
+
+#head {
+    background-color: rgba(226, 177, 121, 255);
+}
+
+.ginger {
+    background-color: #e2b179;
+}
+
+#chillie {
+    background-color: rgba(9, 99, 3, 255)
+}
+
+#onion {
+    background-color: #a9194c;
+}
+
+#tomato {
+    background-color: #f71b27;
+}
+
+#cardamon {
+    background-color: #728836;
+}
+
+#nuts {
+    background-color: rgba(118, 65, 34, 255);
+}
+
+#ghee {
+    background-color: #d8ae04;
+}
+
+#carrot {
+    background-color: #f71b27;
+}
+
+#garam {
+    background-color: #e5aa5b;
+}
+
+#chillipowder {
+    background-color: #a12732;
+}
+
+#corrinder {
+    background-color: rgba(179, 137, 18, 255);
+}
+
+#lemon {
+    background-color: #d8ae04;
+}
