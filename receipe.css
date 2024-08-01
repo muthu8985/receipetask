@@ -1,19 +1,33 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body{
-    background-color:aquamarine;
+body {
+  background-color: aquamarine;
+  font-family: "Poppins", sans-serif;
+  /* font-weight: 100;
+  font-style: normal; */
+}
+body>span{
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    text-indent: 200px ;
+}
+.topic{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: hsl(60, 2%, 8%);
 
 }
-table{
-    width:500px;
-    border-width:5px;
-    border-style:solid;
-    border-color: #080808;
-    border-radius: 2%;
+table {
+  width: 500px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #080808;
+  border-radius: 2%;
 }
 /* tr,td{
     width:500px;
@@ -23,62 +37,58 @@ table{
     border-radius: 2%;
 } */
 table tr,
-
 td {
-    border: 1px solid black
+  border: 1px solid black;
 }
 
 #head {
-    background-color: rgba(226, 177, 121, 255);
-
+  background-color: rgba(226, 177, 121, 255);
 }
 
 .ginger {
-    background-color: #e2b179;
+  background-color: #e2b179;
 }
 
 #chillie {
-    background-color: rgba(9, 99, 3, 255)
+  background-color: rgba(9, 99, 3, 255);
 }
 
 #onion {
-    background-color: #a9194c;
+  background-color: #a9194c;
 }
 
 #tomato {
-    background-color: #f71b27;
+  background-color: #f71b27;
 }
 
 #cardamon {
-    background-color: #728836;
+  background-color: #728836;
 }
 
 #nuts {
-    background-color: rgba(118, 65, 34, 255);
+  background-color: rgba(118, 65, 34, 255);
 }
 
 #ghee {
-    background-color: #d8ae04;
+  background-color: #d8ae04;
 }
 
 #carrot {
-    background-color: #f71b27;
+  background-color: #f71b27;
 }
 
 #garam {
-    background-color: #e5aa5b;
+  background-color: #e5aa5b;
 }
 
 #chillipowder {
-    background-color: #a12732;
+  background-color: #a12732;
 }
 
 #corrinder {
-    background-color: rgba(179, 137, 18, 255);
+  background-color: rgba(179, 137, 18, 255);
 }
 
 #lemon {
-    background-color: #d8ae04;
+  background-color: #d8ae04;
 }
-
-{}
