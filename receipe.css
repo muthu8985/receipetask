@@ -5,6 +5,9 @@
 }
 
 body {
+background-image: url('https://picsum.photos/540/384');
+background-repeat: no-repeat;
+background-size: cover;
   background-color: aquamarine;
   font-family: "Poppins", sans-serif;
   /* font-weight: 100;
